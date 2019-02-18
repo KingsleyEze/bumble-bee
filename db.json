@@ -1,19 +1,19 @@
 {
   "skills": [
     {
-      "id": 123,
-      "name": "React",
-      "expirience": "2 years"
+      "name": "Java Fx",
+      "expirience": "3 - 5 years",
+      "id": 2
     },
     {
-      "id": 124,
-      "name": "Express.js",
-      "expirience": "4 years"
+      "name": "Java",
+      "expirience": "1 - 3 years",
+      "id": 5
     },
     {
-      "id": 125,
-      "name": "GraphQL",
-      "expirience": "< 1 Year"
+      "name": "Javascript",
+      "expirience": "3 - 5 years",
+      "id": 6
     }
   ]
 }
